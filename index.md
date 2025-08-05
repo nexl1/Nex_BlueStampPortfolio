@@ -1,5 +1,5 @@
 # International Space Station Tracker
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+November 20, 1998 marks the date of the first ISS segment launched into orbit. Since then, humanity has sent over 40 assembly flights and spent over 1,000 hours space walking to construct the International Space Station. Today it stands as an epitome of space innovation, technology, and collaboration, harboring 9 astronauts and granting a safe and stable location to perform numerous experiments and research. My project will not only allow users to track the live location of the ISS, but will also creat a predicted path for the space station, giving the world below a glimpse at the endless possiblities in the stars above their heads. 
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
