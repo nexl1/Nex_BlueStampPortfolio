@@ -1,12 +1,6 @@
 # International Space Station Tracker
 November 20, 1998 marks the date of the first ISS segment launched into orbit. Since then, humanity has sent over 40 assembly flights and spent over 1,000 hours space walking to construct the International Space Station. Today it stands as an epitome of space innovation, technology, and collaboration, harboring 9 astronauts and granting a safe and stable location to perform numerous experiments and research. My project will not only allow users to track the live location of the ISS, but will also creat a predicted path for the space station, giving the world below a glimpse at the endless possiblities in the stars above their heads. 
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
-
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Nex L | Portola High School | Astrophysics | Incoming Senior
@@ -84,6 +78,10 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Adafruit PyPortal Desktop Stand Enclosure Kit | What the item is used for | $9.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | USB C to Micro B Cable - 1 ft 0.3 meter | What the item is used for | $2.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | USB cable - USB A to Micro-B | What the item is used for | $2.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| 5V 2A Switching Power Supply w/USB-A Connector | What the item is used for | $7.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Raspberry Pi Model 4 4GB Starter Kit | What the item is used for | $7.95 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/RasTech-Raspberry-Starter-Heatsink-Screwdriver/dp/B0C8LV6VNZ/)"> Link </a> |
+| 5V 2A Switching Power Supply w/USB-A Connector | What the item is used for | $7.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| 5V 2A Switching Power Supply w/USB-A Connector | What the item is used for | $7.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | 5V 2A Switching Power Supply w/USB-A Connector | What the item is used for | $7.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
 
