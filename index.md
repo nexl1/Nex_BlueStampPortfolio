@@ -5,7 +5,6 @@ November 20, 1998 marks the date of the first ISS segment launched into orbit. S
 |:--:|:--:|:--:|:--:|
 | Nex L | Portola High School | Astrophysics | Incoming Senior
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](logo.svg)
   
@@ -33,7 +32,10 @@ For your second milestone, explain what you've worked on since your previous mil
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- What needs to be completed before your final milestone
+For my second milestone, I was able to complete my first modification. I added a prediction line using an SGP4 algorithm to calculate the predicted path of the International Space Station (ISS). I also switched to a Raspberry Pi Model 4B with a 7" LCD Display Screen to display the project. Now the project displays a 400x240 sized map that contains the current location in red, trail in yellow, and prediction line in green.
+
+I faced many challenges throughout this milestone and that first began with solving for the predicted path. I did some research on how to predict the path of the ISS, and I found some interesting information regarding the topic. Two Line Element set (TLE) is 2 lines of numbers that can be translated into important information about an astral object orbiting the Earth, such as the mean motion, inclination, and eccentricity. 
 
 # First Milestone
 
@@ -41,12 +43,11 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rGwitP7QFbk?si=WOAO3podUOh1nJxD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
-My first milestone was completing my base project. I first needed to 
+For my first milestone, I was able to complete my base project. I built an International Space Station (ISS) tracking device that displays the current location of the ISS in the form of a red dot, and shows a line in yellow, representing the trail of the ISS. I used the Adafruit PyPortal to display the project and used Python on Visual Studio Code to program the display.
+
+The biggest challenge of this process was ensuring I had up to date technology, and that I followed the instructions on the tutorial correctly. I was given an Adafruit project tutorial online and I needed to carefully read and follow the instructions. Initially all went well while I was initializing the PyPortal and downloading all of its libraries. I was able to import Circuit Python and also create a D: drive to store all of my project files. However, when I imported the code and attempted to run it, I faced an error. There was a "root_group" error that, after debugging and testing with my instructor, turned out to occur during the initialization of the PyPortal. I attempted a few methods to solve this error, removing or setting a root group, but ultimately none of those efforts worked. So I traced my steps back to the start of the tutorial, and downloaded the beta "10.0" version of Circuit Python. After going through the tutorial again, I was able to successfully display the tracker on the PyPortal. 
+
+Reflecting on this first milestone and the challenges that I faced, I realized that I need to stay calm and be open to trying new approaches when problem solving. I could've kept doing the same thing repeatedly despite seeing no gains, but instead, I tried many different approaches and ultimately was able to get the base project to work. In the future, I hope to continue developing this project as I am excited to innovate further. I will take the problem solving skills and software setup experience from the first milestone and apply it to not only my next two milestones, but also future endeavors. 
 
 
 # Schematics 
