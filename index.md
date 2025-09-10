@@ -3,7 +3,7 @@ November 20, 1998 marks the date of the first ISS segment launched into orbit. S
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Nex L | Portola High School | Astrophysics | Incoming Senior
+| Nex L | Portola High School | Astrophysics | Incoming Senior |
 
 
 ![Headstone Image](logo.svg)
@@ -19,7 +19,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
-
+For my third milestone, I completed my second modification and added final touches to the International Space Station tracker. I 
 
 
 # Second Milestone
@@ -34,6 +34,8 @@ For your second milestone, explain what you've worked on since your previous mil
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone
 For my second milestone, I was able to complete my first modification. I added a prediction line using an SGP4 algorithm to calculate the predicted path of the International Space Station (ISS). I also switched to a Raspberry Pi Model 4B with a 7" LCD Display Screen to display the project. Now the project displays a 400x240 sized map that contains the current location in red, trail in yellow, and prediction line in green.
+
+I was 
 
 I faced many challenges throughout this milestone and that first began with solving for the predicted path. I did some research on how to predict the path of the ISS, and I found some interesting information regarding the topic. Two Line Element set (TLE) is 2 lines of numbers that can be translated into important information about an astral object orbiting the Earth, such as the mean motion, inclination, and eccentricity. 
 
@@ -80,7 +82,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | USB C to Micro B Cable - 1 ft 0.3 meter | What the item is used for | $2.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | USB cable - USB A to Micro-B | What the item is used for | $2.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | 5V 2A Switching Power Supply w/USB-A Connector | What the item is used for | $7.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Raspberry Pi Model 4 4GB Starter Kit | What the item is used for | $7.95 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/RasTech-Raspberry-Starter-Heatsink-Screwdriver/dp/B0C8LV6VNZ/)"> Link </a> |
+| Raspberry Pi Model 4 4GB Starter Kit | What the item is used for | $7.95 | <a href= "https://www.amazon.com/RasTech-Raspberry-Starter-Heatsink-Screwdriver/dp/B0C8LV6VNZ/"> Link </a> |
 | 5V 2A Switching Power Supply w/USB-A Connector | What the item is used for | $7.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | 5V 2A Switching Power Supply w/USB-A Connector | What the item is used for | $7.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | 5V 2A Switching Power Supply w/USB-A Connector | What the item is used for | $7.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
