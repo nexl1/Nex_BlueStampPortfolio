@@ -75,10 +75,10 @@ Don't forget to place the link of where to buy each component inside the quotati
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Adafruit PyPortal - CircuitPython Powered Internet Display | What the item is used for | $54.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Adafruit PyPortal Desktop Stand Enclosure Kit | What the item is used for | $9.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| USB C to Micro B Cable - 1 ft 0.3 meter | What the item is used for | $2.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| USB cable - USB A to Micro-B | What the item is used for | $2.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| 5V 2A Switching Power Supply w/USB-A Connector | What the item is used for | $7.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Adafruit PyPortal Desktop Stand Enclosure Kit | What the item is used for | $9.95 | <a href="https://www.adafruit.com/product/4146?srsltid=AfmBOorIT4A7AOSzi335Tk5A3SfNWH7PC89ulWovHKDVmyRPABqzkW5I"> Link </a> |
+| USB C to Micro B Cable - 1 ft 0.3 meter | What the item is used for | $2.95 | <a href="https://www.adafruit.com/product/3879?srsltid=AfmBOorHKFWJJjWd6g8qZpF-UDEPGfK7uvFHdvMS7SB61TWXBRaZtsCh"> Link </a> |
+| USB cable - USB A to Micro-B | What the item is used for | $2.95 | <a href="https://www.amazon.com/Cable-Type-Micro-Black-Color/dp/B00860R2FM"> Link </a> |
+| 5V 2A Switching Power Supply w/USB-A Connector | What the item is used for | $7.95 | <a href="https://www.adafruit.com/product/1994?srsltid=AfmBOoo-EQ06mNY2n9xANWdycWEkuLooYkVS_N4wNwPmDGjbmTtpsQRX"> Link </a> |
 | Raspberry Pi Model 4 4GB Starter Kit | What the item is used for | $7.95 | <a href= "https://www.amazon.com/RasTech-Raspberry-Starter-Heatsink-Screwdriver/dp/B0C8LV6VNZ/"> Link </a> |
 | 5V 2A Switching Power Supply w/USB-A Connector | What the item is used for | $7.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | 5V 2A Switching Power Supply w/USB-A Connector | What the item is used for | $7.95 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
