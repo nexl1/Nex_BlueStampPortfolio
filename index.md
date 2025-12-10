@@ -28,16 +28,13 @@ For my third milestone, I completed my second modification and added final touch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6hgNIT6npPA?si=8hoHP8ag0Wfsjzr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone
-For my second milestone, I was able to complete my first modification. I added a prediction line using an SGP4 algorithm to calculate the predicted path of the International Space Station (ISS). I also switched to a Raspberry Pi Model 4B with a 7" LCD Display Screen to display the project. Now the project displays a 400x240 sized map that contains the current location in red, trail in yellow, and prediction line in green.
+For my second milestone, I was able to complete my first modification. I added a prediction line using an SGP4 algorithm to calculate the predicted path of the International Space Station (ISS). I also switched to a Raspberry Pi Model 4B with a 7" LCD Display Screen to display the project. Now the project displays a 400x240 sized map that contains the current location in red, trail in yellow, and prediction line in green. I faced many challenges throughout this milestone and that first began with solving for the predicted path. I did some research on how to predict the path of the ISS, and I found some interesting information regarding the topic. 
 
-I was 
+Two Line Element set (TLE) is 2 lines of numbers that can be translated into important information about an astral object orbiting the Earth, such as the mean motion, inclination, and eccentricity. I initially couldn't understand much of this information because I didn't have much advanced mechanics physics knowledge, but I soon found out how to utilize data from the TLE. The Simplified General Perturbations Model 4 (SGP4) is an algorithm that can perform orbital determination topics. Since I struggled to figure out the higher-level physics and math concepts, I utilized phython and downloaded the SGP4 library online. Through this, I was able to understand the algorithm better and ultimately use it in my code. Now, in my virtual enviornment, I was able to successfully get the Earth-centric XYZ coordinates of the ISS at any date and time down to the second.
 
-I faced many challenges throughout this milestone and that first began with solving for the predicted path. I did some research on how to predict the path of the ISS, and I found some interesting information regarding the topic. Two Line Element set (TLE) is 2 lines of numbers that can be translated into important information about an astral object orbiting the Earth, such as the mean motion, inclination, and eccentricity. 
+However, I realized I couldn't impliment this into the PyPortal because it had limited libraries. Therefore, I switched to a Raspberry Pi. This process was initially challenging due to the new interface of the device, but after a day I was able to connect everything. I copied all of my code from the virtual environment to my Raspberry Pi, and soon I was able to display the map with the prediction line, after doing some math conversions. 
+
+For milestone 3, I will need to upscale the image that it produces because right now it is only 400x200, which is the resolution of the PyPortal screen. Then, I plan on adding another modification, maybe something with calculating distances.
 
 # First Milestone
 
